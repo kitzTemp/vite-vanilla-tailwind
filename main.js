@@ -1,5 +1,5 @@
-import './style.css'
-import javascriptLogo from './javascript.svg'
+import './src/css/tailwind.css'
+import './src/css/style.css'
 import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
